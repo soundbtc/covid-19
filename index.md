@@ -10,11 +10,19 @@ Here you'll find out everything about Bitcoin and the world of Blockchain.
 
 <p>
 <h1>What is Bitcoin?</h1>
+
+<h2>history</h2>
 <p>
 
 <p>
   <h1>Where to get Bitcoin?</h1>
   <p>
+  
+  <P>
+  <h1>Storing Bitcoin</h1>
+  <p>
+    
+    
   
 ```markdown
 Syntax highlighted code block
