@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/soundbtc/covid-19/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here you'll find out everything about Bitcoin and the world of Blockchain.
 
 ```markdown
 Syntax highlighted code block
