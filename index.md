@@ -4,9 +4,13 @@ You can use the [editor on GitHub](https://github.com/soundbtc/covid-19/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-###
+Welcome!
 
 Here you'll find out everything about Bitcoin and the world of Blockchain.
+
+<p>
+<h1>What is Bitcoin?</h1>
+<p>
 
 ```markdown
 Syntax highlighted code block
