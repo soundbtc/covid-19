@@ -10,8 +10,7 @@ Here you'll find out everything about Bitcoin and the world of Blockchain.
 
 <p>
 <h1>What is Bitcoin?</h1>
-
-<h2>history</h2>
+<h2>History</h2>
 <p>
 
 <p>
