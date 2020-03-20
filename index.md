@@ -4,9 +4,33 @@ You can use the [editor on GitHub](https://github.com/soundbtc/covid-19/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Welcome!
-
-Here you'll find out everything about Bitcoin and the world of Blockchain.
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_56178"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/COINBASE-BTCUSD/" rel="noopener" target="_blank"><span class="blue-text">BTCUSD Chart</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "autosize": true,
+  "symbol": "COINBASE:BTCUSD",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "light",
+  "style": "1",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "allow_symbol_change": true,
+  "container_id": "tradingview_56178"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
+                
+<h1>
+Here you'll find out everything about Bitcoin and the world of Blockchain.</h1>
 
 <p>
 <h1>What is Bitcoin?</h1>
