@@ -32,6 +32,8 @@
 <p>
 <h1>What is Bitcoin?</h1>
 <h2>History</h2>
+<h3>Bitcoin is considered as the money of the internet. It was created in 2008 by a person or persons with the pseudonym, Satoshi Nakamoto.
+<h2>Whitepaper</h2>
 </p>
 
 <p>
