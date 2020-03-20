@@ -33,8 +33,12 @@
 <p>
 <h1>What is Bitcoin?</h1>
 <h2>History</h2>
-<p>Bitcoin is considered as the money of the internet. It was created in 2008 by a person or persons with the pseudonym, Satoshi Nakamoto.</p>
+<p>Bitcoin was created in 2008 by a person or persons with the pseudonym, Satoshi Nakamoto.</p>
+<p>Bitcoin is an electric form of currency that lives on the internet. You are able to send and receive Bitcoin without a middle-man. No banks, no or credit lenders involved! </p>
+<p>Because Bitcoin lives on its blockchain, it does
+<p>Bitcoin 
 <h2>Whitepaper</h2>
+<p>November 2008 was when someone by the name of Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi told us their solution for the Double Spending problem. This is where regular fiat currencies are subject to being double spent because banks are inefficient with verifying funds.
 </p>
 
 <p>
