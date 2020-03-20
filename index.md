@@ -1,9 +1,7 @@
 <h1>Welcome to SoundBTC</h1>
 <p>Here you'll find everything about Bitcoin and the world of Blockchain.</p>
 
-You can use the [editor on GitHub](https://github.com/soundbtc/covid-19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_78cdf"></div>
@@ -34,7 +32,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <p>
 <h1>What is Bitcoin?</h1>
 <h2>History</h2>
-<p>
+</p>
 
 <p>
   <h1>Where to get Bitcoin?</h1>
@@ -42,14 +40,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <h2>Local P2P</h2>
   <h2>Exchange</h2>
   
-  <p>
+  </p>
   
   <P>
   <h1>Storing Bitcoin</h1>
   <h2>Cold Storage</h2>
   <h2>Hot Wallets</h2>
   
-  <p>
+  </p>
     
     
   
@@ -80,3 +78,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+You can use the [editor on GitHub](https://github.com/soundbtc/covid-19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
