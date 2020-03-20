@@ -38,10 +38,17 @@ Here you'll find out everything about Bitcoin and the world of Blockchain.</h1>
 
 <p>
   <h1>Where to get Bitcoin?</h1>
+  <h2>KYC</h2>
+  <h2>Local P2P</h2>
+  <h2>Exchange</h2>
+  
   <p>
   
   <P>
   <h1>Storing Bitcoin</h1>
+  <h2>Cold Storage</h2>
+  <h2>Hot Wallets</h2>
+  
   <p>
     
     
