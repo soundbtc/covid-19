@@ -12,6 +12,10 @@ Here you'll find out everything about Bitcoin and the world of Blockchain.
 <h1>What is Bitcoin?</h1>
 <p>
 
+<p>
+  <h1>Where to get Bitcoin?</h1>
+  <p>
+  
 ```markdown
 Syntax highlighted code block
 
