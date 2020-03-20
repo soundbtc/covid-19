@@ -34,11 +34,11 @@
 <h1>What is Bitcoin?</h1>
 <h2>History</h2>
 <p>Bitcoin was created in 2008 by a person or persons with the pseudonym, Satoshi Nakamoto.</p>
-<p>Bitcoin is an electric form of currency that lives on the internet. You are able to send and receive Bitcoin without a middle-man. No banks, no or credit lenders involved! </p>
-<p>Because Bitcoin lives on its blockchain, it does
+<p>Bitcoin is an electric form of currency that lives on the internet! You are able to send and receive Bitcoin without a middle-man. No banks, no or credit lenders involved! </p>
+<p>Because Bitcoin lives on its blockchain, it does not need any central authority to run.
 <p>Bitcoin 
 <h2>Whitepaper</h2>
-<p>November 2008 was when someone by the name of Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi told us their solution for the Double Spending problem. This is where regular fiat currencies are subject to being double spent because banks are inefficient with verifying funds.
+<p>November 2008 was when someone by the name of Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged us their solution for the Double Spend problem. This is where regular fiat currencies are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies users funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain via miners all around the world that solve a difficult algorithm, validating transactions.
 </p>
 
 <p>
