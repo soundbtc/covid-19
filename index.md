@@ -32,11 +32,10 @@
 
 <p>
 <h1>What is Bitcoin?</h1>
-<p>Bitcoin is a digital currency that lives on the internet. It can be used by anyone all around the world, 24/7 365 days of the year. It does not need a central authority due to its trustless properties.</p>
+<p>Bitcoin is a digital currency that lives on the internet. It can be used by anyone all around the world, 24/7 365 days of the year. It is a peer to peer system and does not need a central authority. Bitcoin miners spread all around the globe validate transactions and secure the network. There will only be a total of 21 million Bitcoins to ever exist. Due to the finite supply, some people see Bitcoin as a sound form of money, along with digital gold.</p>
 <h2>History</h2>
-<p>Bitcoin was created in 2008 by a person or persons with the pseudonym, Satoshi Nakamoto.</p>
-<p>Bitcoin is an electric form of currency that lives on the internet! You are able to send and receive Bitcoin without a middle-man. No banks, no or credit lenders involved! </p>
-<p>Because Bitcoin lives on its blockchain, it does not need any central authority to run.
+<p>Bitcoin was created in 2008 by a person or persons with the pseudonym, Satoshi Nakamoto; whom came up with bitcoin to solf the Double Spending problem. Bitcoin is a digital form of currency that lives on the internet! You are able to send and receive Bitcoin without a middle-man. No banks, no credit lenders involved! </p>
+
 <p>Bitcoin 
 <h2>Whitepaper</h2>
 <p>November 2008 was when someone by the name of Satoshi Nakamoto published Bitcoin's Whitepaper. Here Satoshi acknowleged us their solution for the Double Spend problem. This is where regular fiat currencies are subject to being double spent because banks are inefficient with verifying funds. Bitcoin verifies users funds on the blockchain and allows one to transact with someone else without any middleman. Bitcoin transactions are verified on the blockckhain via miners all around the world that solve a difficult algorithm, validating transactions.
