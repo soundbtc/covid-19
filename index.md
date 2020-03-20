@@ -1,5 +1,5 @@
 <h1>Welcome to SoundBTC</h1>
-<p>Here you'll find everything about Bitcoin and the world of Blockchain.</p>
+<h2>Here you'll find everything about Bitcoin and the world of Blockchain.</h2>
 
 
 <!-- TradingView Widget BEGIN -->
@@ -32,7 +32,7 @@
 <p>
 <h1>What is Bitcoin?</h1>
 <h2>History</h2>
-<h3>Bitcoin is considered as the money of the internet. It was created in 2008 by a person or persons with the pseudonym, Satoshi Nakamoto.
+<p>Bitcoin is considered as the money of the internet. It was created in 2008 by a person or persons with the pseudonym, Satoshi Nakamoto.</p>
 <h2>Whitepaper</h2>
 </p>
 
