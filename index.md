@@ -1,5 +1,5 @@
 <h1>Welcome to SoundBTC</h1>
-<p>Here you'll find all about Bitcoin and the world of Blockchain.</p>
+<p>Here you'll find everything about Bitcoin and the world of Blockchain.</p>
 
 You can use the [editor on GitHub](https://github.com/soundbtc/covid-19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
