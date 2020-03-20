@@ -1,5 +1,6 @@
 <h1>Welcome to SoundBTC</h1>
-<h2>Here you'll find everything about Bitcoin and the world of Blockchain.</h2>
+<p><h2>Here you'll find everything about Bitcoin and the world of Blockchain.</h2>
+</p>
 
 
 <!-- TradingView Widget BEGIN -->
